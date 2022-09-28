@@ -7,8 +7,18 @@ body{
     padding: 0;
 }
 
-.top{
+ul{
 
+}
+
+.links,
+.hero-second{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.top{
+    background-color: #1f2937;
 }
 
 .left{
@@ -16,19 +26,22 @@ body{
 }
 
 .header-logo{
-
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 .hero-main{
-
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
 }
 
 .hero-second{
-
+    
 }
 
 .signup-top{
-
+    background-color: #3882f6;
 }
 
 .right{
@@ -40,5 +53,5 @@ body{
 }
 
 .img-placeholder{
-    
+    color: #e5e7eb;
 }

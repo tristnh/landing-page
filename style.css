@@ -114,14 +114,24 @@ ul{
 
 .quote-block{
     background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
 }
 
 .quote{
     font-size: 36px;
     font-weight: light;
     color: #1f2937;
+    width: 800px;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 .person{
-    
+    font-size: 23px;
+    align-self: end;
 }

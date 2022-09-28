@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 html{
     font-family: "Roboto", sans-serif;
 }
@@ -137,3 +142,40 @@ ul{
     align-self: end;
 }
 
+.bot-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+}
+
+.call-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+    width: 800px;
+    border-radius: 8px;
+    padding: 30px 20px;
+}
+
+.call-head{
+    font-size: 18px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.call-second{
+    color: #f9faf8;
+}
+
+.sign-bot{
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 8px;
+    font-size: 14px;
+    border: 2px solid #e5e7eb;
+    width: 125px;
+    height: 35px;
+    margin-left: 130px;
+}

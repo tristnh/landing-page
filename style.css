@@ -179,3 +179,13 @@ ul{
     height: 35px;
     margin-left: 130px;
 }
+
+.footer{
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 14px;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

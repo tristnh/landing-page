@@ -12,7 +12,7 @@ ul{
     padding: 0;
     display: flex;
     list-style: none;
-    gap: 32px;
+    gap: 24px;
 }
 
 .links,
@@ -76,7 +76,7 @@ ul{
 .img-placeholder{
     color: #e5e7eb;
     background-color: gray;
-    width: 500px;
+    width: 400px;
     height: 200px;
     display: flex;
     justify-content: center;

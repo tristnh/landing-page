@@ -101,12 +101,12 @@ ul{
     justify-content: center;
     gap: 64px;
     padding-bottom: 128px;
+    flex-wrap: wrap;
 }
 
 .box-cont{
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     max-width: 150px;
     text-align: center;
 }

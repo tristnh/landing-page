@@ -95,6 +95,7 @@ ul{
     display: flex;
     justify-content: center;
     gap: 64px;
+    padding-bottom: 128px;
 }
 
 .box-cont{
@@ -135,3 +136,4 @@ ul{
     font-size: 23px;
     align-self: end;
 }
+
